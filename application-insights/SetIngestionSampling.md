@@ -1,6 +1,6 @@
 # Cloud Shell PowerShell — Set Application Insights ingestion sampling to 1%
 
-### In Cloud Shell, use the Editor button to paste and save as set-ai-sampling.ps1, then run:
+### In Cloud Shell, use the Editor button to paste and save the script bellow as set-ai-sampling.ps1, then run:
 
 ``` powershell
 .\set-ai-sampling.ps1
