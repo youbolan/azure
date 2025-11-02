@@ -2,6 +2,8 @@
 
 ### Use the following code to create a runbook. It run on Powershell 5.1
 
+Make sure the automation identity has the contributor role in the subscription.
+
 ``` Powershell
 <#
 .SYNOPSIS
